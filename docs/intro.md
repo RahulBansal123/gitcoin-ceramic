@@ -32,7 +32,7 @@ Gitcoin passport allows users to verify their identity by linking their identiti
 
 You can use Gitcoin Passport SDK Reader in your DApp to verify the credentials of the user. Ref: https://www.npmjs.com/package/@gitcoinco/passport-sdk-reader
 
-Learn how to use the SDK by following this <a href='/docs/basics/how-to-use-sdk.md'>tutorial</a>.
+Learn how to use the SDK by following this <a href='/docs/basics/how-to-use-sdk'>tutorial</a>.
 
 ## Use cases
 

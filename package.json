@@ -2,6 +2,7 @@
   "name": "gitcoin-ceramic",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://github.com/RahulBansal123/gitcoin-ceramic",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
