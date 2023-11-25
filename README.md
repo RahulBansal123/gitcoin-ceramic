@@ -84,8 +84,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@rahulbansal_eth](<[https://twitter.com/rahulbansal_eth](https://twitter.com/rahulbansal_eth)>) - rbbansal558@gmail.com
-
 Project Link: [https://github.com/RahulBansal123/gitcoin-ceramic](<[https://github.com/RahulBansal123/gitcoin-ceramic](https://github.com/RahulBansal123/gitcoin-ceramic)>)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
